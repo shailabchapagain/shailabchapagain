@@ -1,5 +1,6 @@
 ## I'm a Student, Learner and Worker!!
 
+-     I am currently studying Msc in Computer Science major software engineering in University College Dublin, Ireland.
 - 🔭 I just finished my bachelor degree in Informatics engineering from polytechnic institute of bragança portugal.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to for job or an internship related to my field.
